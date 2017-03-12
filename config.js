@@ -1,0 +1,2 @@
+imgurClientID = "";
+databaseUrl = "localhost/lighterpack";
